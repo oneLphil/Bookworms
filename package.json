@@ -1,0 +1,30 @@
+{
+  "name": "assignment-2-bookworms",
+  "version": "1.0.0",
+  "main": "bookworms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csc309-18s/assignment-3-bookworms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csc309-18s/assignment-3-bookworms/issues"
+  },
+  "homepage": "https://github.com/csc309-18s/assignment-3-bookworms#readme",
+  "description": "",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react": "^6.24.1",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.33",
+    "request": "^2.85.0",
+    "sha256": "^0.2.0"
+  }
+}

@@ -1,0 +1,2 @@
+- run `node bookworms.js`
+- enter `localhost:8000` on your browser
